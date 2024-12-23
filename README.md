@@ -6,10 +6,11 @@
 </div>
 
 <hr>
+<br>
 
 
+<h2> 💻 Tech Stacks I have worked with: </h2>
 
-# 💻 Tech Stacks I have worked with:
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
     <img width="12" />
@@ -31,7 +32,7 @@
   </div>
 <br>
 
-# 📊 My GitHub Stats:
+<h2> 📊 My GitHub Stats: </h2>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=shivam-singh20&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
     <img src="https://streak-stats.demolab.com?user=shivam-singh20&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
