@@ -1,16 +1,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-singh20&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-singh20" /> </p>
 <!-- profile -->
 <div align="center">
-  <h1 align="center" >Hi 👋! I'm Shivam Kumar Singh</h1>
-  <h3 align="center" >A passionate frontend developer</h3>
+  <h1 align="center">Hi 👋! I'm Shivam Kumar Singh</h1> 
+  <h3 align="center">A passionate frontend developer</h3>
 </div>
+
 <hr>
-<h2 align="left">Connect with me on:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shivam-kumar-singh-b2963a341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shivam-kumar-singh-b2963a341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivam_singh_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivam_singh_12" height="30" width="40" /></a>
-</p>
-<br>
+
 
 
 # 💻 Tech Stacks I have worked with:
