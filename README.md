@@ -1,13 +1,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam-singh20&label=Profile%20views&color=0e75b6&style=flat" alt="shivam-singh20" /> </p>
 <!-- profile -->
 <div align="center">
-  <h1 align="center">Hi 👋! I'm Shivam Kumar Singh</h1> 
+  <h1 align="center">Hi👋 I'm Shivam Kumar Singh!</h1> 
   <h3 align="center">A passionate frontend developer</h3>
 </div>
 
 <hr>
-<br>
-
 
 # 💻 Tech Stacks I have worked with:
 
