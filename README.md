@@ -2,7 +2,7 @@
 <!-- profile -->
 <div align="center">
   <h1 align="center">Hi👋 I'm Shivam Kumar Singh!</h1> 
-  <h3 align="center">A passionate frontend developer</h3>
+  <h3 align="center">A Frontend and Backend Developer</h3>
 </div>
 
 <hr>
